@@ -2,7 +2,7 @@
 
 To create a Python program that interacts with the Fitbit API to monitor user sleep and set an alarm for 90 minutes after falling asleep, you will need to use the Python Fitbit package. You can install it with:
 
-pip install python-fitbit
+`pip install python-fitbit`
 
 Before proceeding, make sure you have the necessary credentials (client_id, client_secret, and access_token). Follow the instructions at https://towardsdatascience.com/collect-your-own-fitbit-data-with-python-ff145fa10873 or https://dev.fitbit.com/getting-started/ to set up your Fitbit API credentials.
 
